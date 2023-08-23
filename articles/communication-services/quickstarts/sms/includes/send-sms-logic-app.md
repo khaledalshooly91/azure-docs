@@ -33,7 +33,7 @@ Although this quickstart focuses on using the connector to respond to a trigger,
 
   This quickstart uses the **When a new email arrives** trigger, which is available with the [Office 365 Outlook connector](/connectors/office365/).
 
-- An SMS enabled phone number, or [get a phone number](./../../telephony/get-phone-number.md).
+- An SMS-enabled telephone number [Get a phone number](../../telephony/get-phone-number.md) **OR** a short code [Quickstart: Apply for a short code](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code) **OR** a communication service resource with enabled alphanumeric sender ID [Quickstart: Enable alphanumeric sender ID](https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/apply-for-short-code).
 
 [!INCLUDE [Regional Availability Notice](../../../includes/regional-availability-include.md)]
 
